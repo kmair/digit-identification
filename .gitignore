@@ -1,0 +1,7 @@
+# Folders
+handout/
+S19 10601 HW5 Latex/
+
+# Zip and tar files
+*.zip
+*.tar

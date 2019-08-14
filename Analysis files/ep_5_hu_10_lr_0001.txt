@@ -1,0 +1,12 @@
+epoch=1 crossentropy(train): 2.3028476576795422
+epoch=1 crossentropy(test): 2.302847487396603
+epoch=2 crossentropy(train): 2.3028661312253726
+epoch=2 crossentropy(test): 2.3028663504977205
+epoch=3 crossentropy(train): 2.302858372812183
+epoch=3 crossentropy(test): 2.3028593575057226
+epoch=4 crossentropy(train): 2.3028337239737344
+epoch=4 crossentropy(test): 2.302836292714094
+epoch=5 crossentropy(train): 2.302759345376223
+epoch=5 crossentropy(test): 2.302765467229007
+error(train): 0.9
+error(test): 0.9
